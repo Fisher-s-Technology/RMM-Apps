@@ -8,8 +8,6 @@ This repository contains scripts and applications used in conjunction with Fishe
 - [Installation](#installation)
 - [Usage](#usage)
 - [Scripts and Tools](#scripts-and-tools)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
